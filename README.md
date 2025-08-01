@@ -11,7 +11,7 @@ This is a web-based application that allows athletes to submit audio responses e
 - MongoDB database for data storage
 - React frontend with real-time response table
 
-- ## Technologies Used
+## Technologies Used
 
 ### Backend (Node.js + Express)
 - **express** – API routing and server
