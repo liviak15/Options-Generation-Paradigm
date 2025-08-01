@@ -1,6 +1,7 @@
 # Project 4: Options Generation Paradigm
 
 This is a web-based application that allows athletes to submit audio responses either by uploading a file or recording via microphone. The system handles transcription, automatic scoring based on similarity, and expert evaluation, making it especially useful for sports coaching and research.
+---
 
 ##  Features
 
@@ -26,7 +27,6 @@ This is a web-based application that allows athletes to submit audio responses e
 - **Whisper** – OpenAI's automatic speech recognition
 - **ffmpeg** – Audio conversion tool (must be installed separately)
 
----
 
 ### Frontend (React)
 - **axios** – API requests
