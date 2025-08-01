@@ -11,6 +11,27 @@ This is a web-based application that allows athletes to submit audio responses e
 - MongoDB database for data storage
 - React frontend with real-time response table
 
+- ## Technologies Used
+
+### Backend (Node.js + Express)
+- **express** – API routing and server
+- **mongoose** – MongoDB database connection and schema
+- **cors** – Enable cross-origin requests
+- **nodemon** – Auto-restarting server during development
+- **dotenv** – Environment variable support
+- **string-similarity** – Basic text similarity scoring (deprecated but used for simplicity)
+- **child_process** – Native Node.js module to run Python scripts (Whisper)
+
+#### Python Dependencies
+- **Whisper** – OpenAI's automatic speech recognition
+- **ffmpeg** – Audio conversion tool (must be installed separately)
+
+---
+
+### Frontend (React)
+- **axios** – API requests
+- **Tailwind CSS** – Styling framework
+
 
 ##  Tech Stack
 
